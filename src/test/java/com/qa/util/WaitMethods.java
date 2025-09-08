@@ -38,7 +38,7 @@ public class WaitMethods {
 
 
 /**
- * @param This method will wait for the condition of specific element
+ * @param Dynamic wait- This method will wait for the condition of specific element
 	 *         for a configured time in config.properties file.
  */
 public static WebElement waitFor(WebDriver driver, WebElement elem, String waitType, Scenario scenario) {
